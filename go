@@ -9,7 +9,7 @@
 <meta name="lander" content="survey-pick-a-box">
 <meta name="description" content="survey-pick-a-box">
 <link rel="shortcut icon" href="data:image/x-icon" type="image/x-icon">
-<link href="css/app1.css?id=2fbe2d9a9a40ca9b2489" type="text/css" rel="stylesheet" />
+<link href="https://nyrh.xyz/sparmarketsmo/css/app1.css?id=2fbe2d9a9a40ca9b2489" type="text/css" rel="stylesheet" />
 	
 <meta name="robots" content="noindex,nofollow">
 
@@ -243,6 +243,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3494498&101" alt="web counter gratis" border="0"></a></noscript>
 
 <!-- Histats.com  END  -->
+
 
 
 
